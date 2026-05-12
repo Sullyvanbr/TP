@@ -1,4 +1,4 @@
-let prenom = "Tot";
+let prenom = "Toto";
 let addresse = "11 avenue de l'europe"
 let ville = "Paris";
 let numéro_de_telephone = "XX.XX.XX.XX.XX"
